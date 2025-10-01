@@ -3,6 +3,6 @@
 My First Git Repo
 <br>
 Author : Bicky Kumar Singh
-<<<<<<< HEAD
+ HEAD
 <br>
 Tool : VS Code
