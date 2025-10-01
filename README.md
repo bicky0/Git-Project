@@ -3,5 +3,8 @@
 My First Git Repo
 <br>
 Author : Bicky Kumar Singh
+<<<<<<< HEAD
 <br>
-Tool : VS Codecddj
+Tool : VS Code
+
+Note : This is just a try
